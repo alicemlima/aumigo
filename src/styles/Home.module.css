@@ -1,0 +1,26 @@
+.main {
+  background-color: #FFD166;
+  justify-content: center;
+  align-items: center;
+}
+.text {
+  padding: 2rem;
+}
+
+.text h1 {
+  font-size: 4rem;
+  font-weight: 600;
+
+  color: #118AB2;
+}
+
+.text h6 {
+  font-size: 2rem;
+  font: 300;
+
+  color: #EF476F;
+}
+
+.cards {
+  background-color: #EF476F;
+}
