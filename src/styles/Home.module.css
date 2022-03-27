@@ -33,3 +33,13 @@
   padding: 1rem;
   color: #FFD166;
 }
+
+.img-dog{
+  border-color: #EF476F;
+  border-width: 1rem;
+}
+
+.waves{
+  padding: 0%;
+  align-self: self-end;
+}
