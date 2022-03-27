@@ -1,0 +1,23 @@
+.nav-brand{
+    color: #EF476F!important;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.bg-navbar{
+  background-color: #FFD166;
+}
+
+.nav-links a{
+    margin: 5px;
+    padding: 4px;
+    color: #EF476F;
+    border: 2px solid;
+    border-color: #EF476F;
+    border-radius: 10px;
+}
+
+.nav-links a:hover{
+    background-color: #EF476F;
+    color: #FFD166;
+}

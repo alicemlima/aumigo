@@ -1,0 +1,11 @@
+.footer-container{
+    background-color: #118AB2;
+    text-align: -webkit-center;
+}
+
+.footer-container p{
+    padding: 1rem;
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 500;
+}
